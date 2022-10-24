@@ -9,7 +9,10 @@ NIM : 312210308
 
 Kelas : TI.22.A.3
 
+=================================================================================================================================
+
 INSTALL PYTHON
+
 1. Install Python pada Web resmi Python
 
 ![download python](https://user-images.githubusercontent.com/115876072/197432317-7df7e365-fda0-464a-8cfa-b36ba471a331.png)
@@ -25,3 +28,24 @@ INSTALL PYTHON
 4. Installasi telah selesai
 
 ![Selesai Install Python](https://user-images.githubusercontent.com/115876072/197432555-2a7cb8b7-8fbb-4ac0-b024-f18483162942.png)
+
+=================================================================================================================================
+
+LATIHAN 1
+
+1. Buat file Latihan1.py
+
+![Buat File Latihan 1](https://user-images.githubusercontent.com/115876072/197433822-3fa058c2-d8f9-41e3-9392-aa82929c11f7.png)
+
+2. Lalu tulis code seperti di bawah ini
+
+![Code Latihan 1](https://user-images.githubusercontent.com/115876072/197435347-3551d6fa-430a-45af-b2af-3f1db5700b6e.png)
+
+3. Lalu klik RUN
+
+![Run Code](https://user-images.githubusercontent.com/115876072/197435497-5753fada-5005-4596-ac0b-e552ff6f9163.png)
+
+4. Maka akan muncul program yang dijalankan di terminal
+
+![output code](https://user-images.githubusercontent.com/115876072/197435877-368b5b89-3275-4973-b9a9-4e6be750e3df.png)
+
