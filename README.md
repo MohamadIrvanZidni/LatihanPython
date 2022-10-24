@@ -35,7 +35,7 @@ LATIHAN 1
 
 1. Buat file Latihan1.py
 
-![Buat File Latihan 1](https://user-images.githubusercontent.com/115876072/197433822-3fa058c2-d8f9-41e3-9392-aa82929c11f7.png)
+![Buat file Latihan 1](https://user-images.githubusercontent.com/115876072/197449864-9ba20a6c-dc3f-4b24-807b-ad9ecbbb7322.png)
 
 2. Lalu tulis code seperti di bawah ini
 
@@ -54,18 +54,35 @@ Latihan 2
 
 1. Buar file Latihan2.py
 
-![Buat file Latihan 2](https://user-images.githubusercontent.com/115876072/197436394-acb463c8-e3f5-4fd7-80fb-99922ffe93a2.png)
+![Buat file Latihan 2](https://user-images.githubusercontent.com/115876072/197449710-7107e682-ebda-4785-95bb-d65cc796227a.png)
 
-3. Lalu tulis code seperti di bawah ini
+2. Lalu tulis code seperti di bawah ini
 
 ![Code Latihan 2](https://user-images.githubusercontent.com/115876072/197436540-54e42acc-7bbb-449b-a327-86fee0534c87.png)
 
-5. Lalu klik RUN
+3. Lalu klik RUN
 
 ![Run Code](https://user-images.githubusercontent.com/115876072/197436828-8271ea76-0f21-49d1-b7b1-88cc1785f332.png)
 
-7. Maka akan muncul program yang dijalankan di terminal
+4. Maka akan muncul program yang dijalankan di terminal
 
 ![Output code](https://user-images.githubusercontent.com/115876072/197437053-a7fe2222-c046-4eeb-8f96-53eea1eb7233.png)
 
 ============================================================================================
+Latihan 3
+
+1. Buat file Latihan3.py
+
+![Buat file Latihan 3](https://user-images.githubusercontent.com/115876072/197450027-83532e4a-6eb7-4530-a54e-a4771b8e26e2.png)
+
+2. Lalu tulis code seperti di bawah ini
+
+![Code Latihan 3](https://user-images.githubusercontent.com/115876072/197450099-5f2b8e34-a608-4222-baf6-905f5269d5bb.png)
+
+3. Lalu klik RUN
+
+![Run Code](https://user-images.githubusercontent.com/115876072/197450193-aeeeaa34-982d-45d4-bcca-088eab696e69.png)
+
+4. Maka akan muncul program yang dijalankan di terminal
+
+![Output Code](https://user-images.githubusercontent.com/115876072/197450418-91809216-5520-4c3e-9764-a653c4442166.png)
