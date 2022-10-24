@@ -2,103 +2,26 @@
 
 Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-5
 
+
 Nama : Mohamad Irvan Zidni
+
 NIM : 312210308
+
 Kelas : TI.22.A.3
 
-DAFTAR ISI
-No	Description	Link
-1	Install Python	Click Here
-2	latihan 1	Click Here
-3	latihan 2	Click Here
-4	latihan 3	Click Here
+INSTALL PYTHON
+1. Install Python pada Web resmi Python
 
-Install Python
-download python pada web Remis python di sini
-download python
+![download python](https://user-images.githubusercontent.com/115876072/197432317-7df7e365-fda0-464a-8cfa-b36ba471a331.png)
 
-buka lalu centang bagian add python to PATH lalu klik install now install python install python2
+2. Lalu install Python dengan cara centang bagian add python.exe to PATH lalu klik install now
 
-Instalasi Selesai, klik close
+![Install Python 1](https://user-images.githubusercontent.com/115876072/197432435-94120e98-c88a-4bd0-949a-ea969d4201fa.png)
 
-install success
+3. Lalu tunggu hingga proses install selesai
 
-Latihan 1
-buat file latihan1.py
-buat file latihan1
+![Install Python 2](https://user-images.githubusercontent.com/115876072/197432515-89b1b381-d46f-4f2a-9cfb-f1cf03e2914d.png)
 
-tulis kode seperti contoh
-sc latihan1
+4. Installasi telah selesai
 
-#menampilkan tulisan 'Hello' di layar
-print("Hello")
-#menampilkan tulisan 'Saya sedang belajar python' di layar
-print("Saya sedang belajar python")
-klik tombol run
-run python
-
-maka akan muncul program yang dijalankan
-output latihan1
-
-Hello
-Saya sedang belajar python
-Latihan 2
-buat file latihan2.py
-buat file latihan2
-
-tulis kode seperti contoh
-sc latihan2
-
-# menjumlahkan dua bilangan menggunakan variabel a & b
-a = 8
-b = 6
-
-print("Variabel a =",a)
-print("Variabel b =",b)
-print("hasil penjumlahan a + b =", a+b)
-klik tombol run
-run python
-
-maka akan muncul program yang dijalankan
-output latihan2
-
-Variabel a = 8
-Variabel b = 6
-hasil penjumlahan a + b = 14
-Latihan 3
-buat file latihan3.py
-buat file latihan3
-
-tulis kode seperti contoh
-sc latihan3
-
-#input nilai variabel
-a = input("masukan nilai pertama: ")
-b = input("masukan nilai kedua: ")
-
-#cetak nilai variabel
-print("variabel a = ", a)
-print("variabel b = ", b)
-
-#cetak hasil kedua operasi variabel dengan string format
-print("Hasil Penggabungan {1} & {0} = ".format(a,b) + str(a)+str(b))
-
-#konversi nilai variabel 
-a = int(a);
-b = int(b);
-
-print("Hasil penjumlahan {1} + {0} = %d".format(a,b) %(a+b))
-print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
-klik tombol run
-run python
-
-maka akan muncul program yang dijalankan, jangan lupa masukan angka
-output latihan3
-
-masukan nilai pertama: 6
-masukan nilai kedua: 8
-variabel a =  6
-variabel b =  8
-Hasil Penggabungan 8 & 6 = 68
-Hasil penjumlahan 8 + 6 = 14
-Hasil pembagian 8 / 6 = 0
+![Selesai Install Python](https://user-images.githubusercontent.com/115876072/197432555-2a7cb8b7-8fbb-4ac0-b024-f18483162942.png)
