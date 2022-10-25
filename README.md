@@ -14,6 +14,7 @@ Kelas : TI.22.A.3
 INSTALL PYTHON
 
 1. Install Python pada Web resmi Python
+https://www.python.org/
 
 ![download python](https://user-images.githubusercontent.com/115876072/197432317-7df7e365-fda0-464a-8cfa-b36ba471a331.png)
 
