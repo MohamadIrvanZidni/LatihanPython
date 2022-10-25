@@ -41,6 +41,13 @@ LATIHAN 1
 
 ![Code Latihan 1](https://user-images.githubusercontent.com/115876072/197435347-3551d6fa-430a-45af-b2af-3f1db5700b6e.png)
 
+    #menampilkan tulisan "Latihan 1" di layar
+    print("Latihan 1")
+    #menampilkan tulisan "Hello World" di layar 
+    print("Hello World")
+    #menampilkan tulisan "Saya sedang belajar python" di layar 
+    print("Saya sedang belajar python")
+
 3. Lalu klik RUN
 
 ![Run Code](https://user-images.githubusercontent.com/115876072/197435497-5753fada-5005-4596-ac0b-e552ff6f9163.png)
@@ -61,6 +68,17 @@ LATIHAN 2
 
 ![Code Latihan 2](https://user-images.githubusercontent.com/115876072/197436540-54e42acc-7bbb-449b-a327-86fee0534c87.png)
 
+    print("Latihan 2")
+
+    a = input("Masukkan variabel a : ")
+    b = input("Masukkan variabel b : ")
+
+    print("Variabel a : ", a)
+    print("Variabel b : ", b)
+    total = int(a) + int(b)
+
+    print("Hasil penjumlahan ", a, " + ", b, " adalah ", total)
+
 3. Lalu klik RUN
 
 ![Run Code](https://user-images.githubusercontent.com/115876072/197436828-8271ea76-0f21-49d1-b7b1-88cc1785f332.png)
@@ -80,6 +98,25 @@ LATIHAN 3
 2. Lalu tulis code seperti di bawah ini
 
 ![Code Latihan 3](https://user-images.githubusercontent.com/115876072/197450099-5f2b8e34-a608-4222-baf6-905f5269d5bb.png)
+
+    print("Latihan 3")
+
+    #input nilai variabel
+    a = input("Masukkan nilai a : ")
+    b = input("Masukkan nilai b : ")
+
+    #cetak nilai variabel
+    print("Variabel a : ", a)
+    print("Variabel b : ", b)
+
+    #cetak hasil operasi kedua variabel dengan String Format
+    print("Hasil Penggabungan {0}&{1}=%d".format(a,b)%int(a+b))
+
+    #konversi nilai variabel
+    a = int(a)
+    b = int(b)
+    print("Hasil Penjumlahan {0}+{1}=%d".format(a,b)%int(a+b))
+    print("Hasil Pembagian {0}/{1}=%d".format(a,b)%int(a/b))
 
 3. Lalu klik RUN
 
