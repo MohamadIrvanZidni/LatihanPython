@@ -55,7 +55,7 @@ https://www.python.org/
 
 # LATIHAN 2
 
-1. Buar file Latihan2.py
+1. Buat file Latihan2.py
 
 ![Buat file Latihan 2](https://user-images.githubusercontent.com/115876072/197449710-7107e682-ebda-4785-95bb-d65cc796227a.png)
 
