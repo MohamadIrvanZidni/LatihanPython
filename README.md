@@ -1,17 +1,15 @@
 # LatihanPython
 
-Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-5
+### Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-5
 
 
-Nama    : Mohamad Irvan Zidni
+## Nama    : Mohamad Irvan Zidni
 
-NIM     : 312210308
+## NIM     : 312210308
 
-Kelas   : TI.22.A.3
+## Kelas   : TI.22.A.3
 
-===========================================================================
-
-INSTALL PYTHON
+# INSTALL PYTHON
 
 1. Install Python pada Web resmi Python
 https://www.python.org/
@@ -30,9 +28,7 @@ https://www.python.org/
 
 ![Selesai Install Python](https://user-images.githubusercontent.com/115876072/197432555-2a7cb8b7-8fbb-4ac0-b024-f18483162942.png)
 
-===========================================================================
-
-LATIHAN 1
+# LATIHAN 1
 
 1. Buat file Latihan1.py
 
@@ -57,9 +53,7 @@ LATIHAN 1
 
 ![output code](https://user-images.githubusercontent.com/115876072/197435877-368b5b89-3275-4973-b9a9-4e6be750e3df.png)
 
-===========================================================================
-
-LATIHAN 2
+# LATIHAN 2
 
 1. Buar file Latihan2.py
 
@@ -88,9 +82,7 @@ LATIHAN 2
 
 ![Output code](https://user-images.githubusercontent.com/115876072/197437053-a7fe2222-c046-4eeb-8f96-53eea1eb7233.png)
 
-===========================================================================
-
-LATIHAN 3
+# LATIHAN 3
 
 1. Buat file Latihan3.py
 
