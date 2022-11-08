@@ -8,7 +8,14 @@ NIM     : 312210308
 
 Kelas   : TI.22.A.3
 
-# INSTALL PYTHON
+| No | Daftar Isi | Link |
+| -- | ---------- | ---- |
+| 1  | Install Python | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum2#install-python) |
+| 2  | Latihan 1 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum2#latihan-1) |
+| 3  | Latihan 2 |[Click Here](https://github.com/MohamadIrvanZidni/Praktikum2#latihan-2)  |
+| 4  | Latihan 3 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum2#latihan-3) |
+
+# Install Python
 
 1. Install Python pada Web resmi Python
 https://www.python.org/
@@ -27,7 +34,7 @@ https://www.python.org/
 
 ![Selesai](Foto/Selesai%20Install%20Python.png)
 
-# LATIHAN 1
+# Latihan 1
 
 1. Buat file Latihan1.py
 
@@ -52,7 +59,7 @@ https://www.python.org/
 
 ![Output](Foto/Output%20code1.png)
 
-# LATIHAN 2
+# Latihan 2
 
 1. Buat file Latihan2.py
 
@@ -81,7 +88,7 @@ https://www.python.org/
 
 ![Output](Foto/Output%20code2.png)
 
-# LATIHAN 3
+# Latihan 3
 
 1. Buat file Latihan3.py
 
