@@ -31,11 +31,11 @@ https://www.python.org/
 
 1. Buat file Latihan1.py
 
-![Buat file Latihan 1](https://user-images.githubusercontent.com/115876072/197449864-9ba20a6c-dc3f-4b24-807b-ad9ecbbb7322.png)
+![File](Foto/Buat%20file%20Latihan%201.png)
 
 2. Lalu tulis code seperti di bawah ini
 
-![Code Latihan 1](https://user-images.githubusercontent.com/115876072/197435347-3551d6fa-430a-45af-b2af-3f1db5700b6e.png)
+![Code](Foto/Code%20Latihan%201.png)
 
     #menampilkan tulisan "Latihan 1" di layar
     print("Latihan 1")
@@ -46,21 +46,21 @@ https://www.python.org/
 
 3. Lalu klik RUN
 
-![Run Code](https://user-images.githubusercontent.com/115876072/197435497-5753fada-5005-4596-ac0b-e552ff6f9163.png)
+![Run](Foto/Run%20Code1.png)
 
 4. Maka akan muncul program yang dijalankan di terminal
 
-![output code](https://user-images.githubusercontent.com/115876072/197435877-368b5b89-3275-4973-b9a9-4e6be750e3df.png)
+![Output](Foto/Output%20code1.png)
 
 # LATIHAN 2
 
 1. Buat file Latihan2.py
 
-![Buat file Latihan 2](https://user-images.githubusercontent.com/115876072/197449710-7107e682-ebda-4785-95bb-d65cc796227a.png)
+![File](Foto/Buat%20file%20Latihan%202.png)
 
 2. Lalu tulis code seperti di bawah ini
 
-![Code Latihan 2](https://user-images.githubusercontent.com/115876072/197436540-54e42acc-7bbb-449b-a327-86fee0534c87.png)
+![Code](Foto/Code%20Latihan%202.png)
 
     print("Latihan 2")
 
@@ -75,21 +75,21 @@ https://www.python.org/
 
 3. Lalu klik RUN
 
-![Run Code](https://user-images.githubusercontent.com/115876072/197436828-8271ea76-0f21-49d1-b7b1-88cc1785f332.png)
+![Run](Foto/Run%20Code2.png)
 
 4. Maka akan muncul program yang dijalankan di terminal
 
-![Output code](https://user-images.githubusercontent.com/115876072/197437053-a7fe2222-c046-4eeb-8f96-53eea1eb7233.png)
+![Output](Foto/Output%20code2.png)
 
 # LATIHAN 3
 
 1. Buat file Latihan3.py
 
-![Buat file Latihan 3](https://user-images.githubusercontent.com/115876072/197450027-83532e4a-6eb7-4530-a54e-a4771b8e26e2.png)
+![File](Foto/Buat%20file%20Latihan%203.png)
 
 2. Lalu tulis code seperti di bawah ini
 
-![Code Latihan 3](https://user-images.githubusercontent.com/115876072/197450099-5f2b8e34-a608-4222-baf6-905f5269d5bb.png)
+![Code](Foto/Code%20Latihan%203.png)
 
     print("Latihan 3")
 
@@ -112,8 +112,8 @@ https://www.python.org/
 
 3. Lalu klik RUN
 
-![Run Code](https://user-images.githubusercontent.com/115876072/197450193-aeeeaa34-982d-45d4-bcca-088eab696e69.png)
+![Run](Foto/Run%20Code3.png)
 
 4. Maka akan muncul program yang dijalankan di terminal
 
-![Output Code](https://user-images.githubusercontent.com/115876072/197450418-91809216-5520-4c3e-9764-a653c4442166.png)
+![Output](Foto/Output%20Code3.png)
