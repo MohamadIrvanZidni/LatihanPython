@@ -1,4 +1,4 @@
-# LatihanPython
+# Praktikum2
 
 Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-5
 
